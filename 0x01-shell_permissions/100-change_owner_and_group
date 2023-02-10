@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp 110 vincent staff
+chown 110 vincent staff
