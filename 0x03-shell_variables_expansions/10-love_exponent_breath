@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Front-{BREATH,LOVE}-Back
+echo "$(($BREATH ** $LOVE))"
