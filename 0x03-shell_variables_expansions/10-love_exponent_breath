@@ -1,2 +1,2 @@
-#!/bin/b#!/bin/bash
+#!/bin/bash
 echo Front-{BREATH,LOVE}-Back
